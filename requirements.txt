@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+tensorflow
+scikit.learn
+keras
+theano
+imageio
+scipy
+-e .
